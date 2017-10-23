@@ -1,3 +1,3 @@
 # facebook frame
 
-![spicy boi](spicy_boi.png?raw=true "Optional Title")
+![spicy boi](spicyboi.png?raw=true "Optional Title")
